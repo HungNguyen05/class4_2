@@ -58,6 +58,7 @@ class MyHomePage extends StatelessWidget {
             ),
             Container(
               child: Row(
+                mainAxisAlignment: MainAxisAlignment.center,
                 children: [
                   Column(
                     children: [
